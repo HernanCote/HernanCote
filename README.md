@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there! I'm Hernán Cote
 
-<!--
-**HernanCote/HernanCote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align='left'> Lets get the work done! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="49px"> </h3>
+<p align = 'left'>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I am a Software Craftsman dedicated to build experiences through latest web technologies 
+<p>Get to know my work through my <a href="https://hernancote.com">Portfolio</a></p> 
+</p> 
+
+<a href = 'https://www.linkedin.com/in/hernancote'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.github.com/hernancote'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+## My GitHub Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hernancote&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernancote&langs_count=8&layout=compact&theme=dark" />
