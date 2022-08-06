@@ -6,7 +6,7 @@
 </br>
 
 <p>I am a Software Craftsman dedicated to build experiences through latest web technologies 
-<p>Get to know my work through my <a href="https://hernancote.com" target="_blank">Portfolio</a></p> 
+<p>Get to know my work through my <a href="https://hernancote.herokuapp.com" target="_blank">Portfolio</a></p> 
 </p> 
 
 <a href = 'https://www.linkedin.com/in/hernancote' target="_blank"> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
