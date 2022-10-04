@@ -1,6 +1,5 @@
 ## Hi there! I'm Hernán Cote
 
-<h3 align='left'> Lets get the work done! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="49px"> </h3>
 <p align = 'left'>
 
 </br>
