@@ -26,4 +26,6 @@
 </br>
 <p align="center">
 <a href = 'https://www.linkedin.com/in/hernancote' target="_blank"> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+&nbsp;
+&nbsp;
 <a href = 'https://www.github.com/hernancote' target="_blank"> <img width = '30px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
