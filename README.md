@@ -1,4 +1,4 @@
-## Hi there! I'm <a href="https://hernancote.herokuapp.com">Hernán</a> 👋
+## Hi there! I'm <a href="https://hernancote.herokuapp.com" target="_blank">Hernán</a> 👋
 
 <p align = 'left'>
 
